@@ -1,2 +1,2 @@
 # RVOS
-Referring_Video_Object_Segmentation/
+Referring Video Object Segmentation
